@@ -2,6 +2,8 @@
 A Tatacon is a controller that uses a drum and drumsticks as it's input mechanism, it's most commonly used for the hit Japanese arcade video game: Taiko No Tatsujin.
 A tatacon usually consists of 2 main parts, a drum and an ebox. The drum is self explanatory, you hit it to make inputs on piezo sensors attached to it. These signals are then sent to the EBox, which consists of a microcontroller and other components to improve processing speed and reduce misinput. The main feature I added that I've never seen on a comercially available ebox is a screen. The screen has a settings function allowing you to adjust the individual and total sensistivites of each piezo on the controller. It also consists of a controller (completely digital) which you can use to not require an external controller to navigate the Nintendo switch. Both the screen and controller functions are powered by 2 different boards so as not to lose any processing time for the inputs and make the most accurate controller. I consider my current build to be just a prototype of design as I lack a PCB and printed case, along with other polish I would like to add when finishing this project.
 
+Below is a video of the prototype in action
+
 
 ![Intro Screenshot](https://github.com/Sakuhano/Tatacon/blob/main/imgs/1what%20is%20it%20image.png)
 
