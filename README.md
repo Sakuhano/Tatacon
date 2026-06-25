@@ -48,14 +48,16 @@ To make the menu, I built off a lot of exisiting code, first I built a menu fram
 
 The idea for this project came to me when I saw an arcade game called Taiko No Tatsujin while abroad it uses a drum controller for inputs. I didn't give it much thought then, but when I got home. I really wanted to play it and found out there was an official controller available for purchase. It was called the Hori TaTacon. It cost about $70, so I was expecting a great product. But on first usage, I was dissapointed. It required water bottles to keep it weighted so it didn't move, I had to hit it super hard for it to work and it was just janky. So I checked for alternatives online. I discovered numerous controllers avaiailable, however a decent one started at 200 for a small one and for a decent size one it went upwards of 500 or more. So to enjoythe game best I could I made a controller.
 
-# Assembly
+#  Pre Assembly
 
 Before starting,there are a couple things to do to prepare. First it'll make life a lot easier if you solder extension wires on each piezo, however don't remove the wires that come preattached else you risk ruining the sensor. Then take each of these lengthened piezo sensors and electrical tape or glue them in the following locations to the top plate parts 
-
 
 ![piezos](https://github.com/Sakuhano/Tatacon/blob/main/imgs/piezo%20locations.png)
 
 
+
+
+#  Assembly
 
 Assembly of this is quite easy once the parts are obtained, using the following items to hold things together
 18x M5 bolts 
@@ -69,11 +71,17 @@ To assemble, start with placing a washer on 14 of your M5 bolts, then take your 
 ![Step 1](https://github.com/Sakuhano/Tatacon/blob/main/imgs/step%201.png)
 
 
+Now is the easiest time to place your support legs, Line up your corner brace(s) with your support legs and put a bolt through each of the 4 holes and add a nut on the opposite side from the bolt head and brace. Your supports shouldnt move very much if at all.
 
-Now, place a nut on each one of the bolts and screw it in fully, after this place each of your rubber dampers on the bolts and screw them in. now it should look something like this, I've added a cross section of how it should look for each bolt
+
+Now, place a nut on each one of the bolts and screw it in fully, after this place each of your rubber dampers on the bolts and screw them in. now it should look something like this (support bolts not shown) , I've added a cross section of how it should look for each bolt
 ![Step 2](https://github.com/Sakuhano/Tatacon/blob/main/imgs/step2.png)
 
-Now place another washer on each, and place on each piece of the top plate, finishing off with adding a nut and tightening each bolt in fully.
+
+
+
+
+Now place another washer on each, and place on each piece of the top plate, its easiest to thread the piezo wire extensions through the holes in the bottom plate now, then to finish off with adding a nut and tightening each bolt in fully. The image below is unfinished to make it easier to see. however the diagram on the right is complete
 ![Step 3](https://github.com/Sakuhano/Tatacon/blob/main/imgs/step3.png)
 
 
