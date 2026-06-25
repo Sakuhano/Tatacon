@@ -1,22 +1,28 @@
-Item,Purpose,Source,Price,Subtotal,Total Spent (tax + shipping,Link
-1/2 in. x 2 ft. x 4 ft. Sande Plywood,Material for the Drum,Home Depot,$27.26,,,Home Depot
-Corner Brace,Joins stand of drum to drum pieces,,owned,,,
-"M5, 12mm vibration isolators x2",helps prevent other piezos from triggering when hitting the drum,AMAZON,$36.00,,,Amazon
-Piezo Sensors (Guitar Pickups),"Houses the RP2040, connects to switch PCBs ",Amazon,$6.99,,,Amazon
-"Bolts, Nuts, Washers",Joins everything together,Amazon,$6.99,,,Amazon
-"Neoprene Rubber Sheet 18x24""",Sheet to cut drum head,Amazon,$34.19,,,Amazon
-Neoprene Rubber Ring,Makes ring for drum head,Amazon,$12.00,,,Amazon
-Resistors 1MOHM,Used for the circut,Amazon,$4.99,,,"California JOS 100pcs 1M ohm Resistor 1/2w (0.5Watt) ±1% Tolerance Metal Film Fixed Resistor, Multiple Values of Resistance Optional(1M ohm, 1M R, 1M Ω): Amazon.com: Industrial & Scientific"
-Jumper Cables,Used for the circut,Amazon,$6.98,,,Amazon
-Arduino Leonardo,Used to control all components and circuts,Amazon,$23.80,,,https://www.amazon.com/Arduino-org-A000057-Arduino-Leonardo-Headers/dp/B008A36R2Y?crid=BQRK7TJKAZC2&dib=eyJ2IjoiMSJ9.jKH0utgoJgDCikRIzQVImI_6WJCN4uYOax_mcWEvPcE-guNj6nIkkDiuLPtOwytf3fmNy-N7xwViXPEL7dBmuOGkUY_XnNV_bW6LAGS8cjjq98jo2aEWxX5QNPyAr5hsKB9RD5tlz668ESMqId4B7kWGYXmireoVbMmBSuJcblzCLeQCzcaL_KT-CTvEAQh4Bd_FDSKsTmo-KpuDoXKWnOcz1WAoEhZg9ZppRKAXPjwYJu2YkeHrRDhVL4_S4-jZV7okoKkEOym-ZboIaR-4ybB41iBneJkbF_ffO0dPmv0.bgBm3TbieFCMmOY7A3STCqnl2HyEDEOYlOLCBex3tgo&dib_tag=se&keywords=arduino+leonardo&qid=1781944904&s=electronics&sprefix=arduino+leonardo%2Celectronics%2C155&sr=1-1
-Electrical Tape,Sticking Piezos to wood and joining wires,,,,,https://www.amazon.com/dp/B001AXD0EY?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1
-OLED Display SSD1306,Used for menu system,,,,,https://www.amazon.com/dp/B0FSRQG23K?ref=ppx_yo2ov_dt_b_fed_asin_title
-Joystick,Used to control menu,,,,,Amazon.com: 6 Pack Joystick Module Game Console Dual-Axis XY Joystick Module KY-023 Control Stick Sensor Board Compatible with PS2 Arduino Raspberry Pi : Electronics
-Hot Glue Gun,Used to apply hot glue,Owned,,,,
-Hot glue stick,Helps keep Piezos on wood,Owned,,,,
-Super Glue (Cyanoacrylate),Helps join rubber ring to sheet,Owned,,,,
-Soldering Iron,"Assembles the PCBs, can weld case to seal cracks",Owned,,,,
-Solder,Use with soldering iron for components,Owned,,,,
-Super Glue,Secures parts of the case to each other,Owned,,,,
-CNC Mill,For Cutting Wood to shape,Outsourced (free),,,,
-,,,,$159.20,$168.75,
+Item,Purpose,Source,Amount,Price,Subtotal,Total Spent (tax + shipping,Link
+1/2 in. x 2 ft. x 4 ft. Sande Plywood,Material for the Drum,Home Depot,1,$27.26,,,Home Depot
+Corner Brace,Joins stand of drum to drum pieces,Ace Hardware,1,$3.99,,,Ace 1 in. H X 1/2 in. W X 1 in. D Steel Inside L Corner Brace Mfr# 01-3404-219 - Ace Hardware
+"M5, 12mm vibration isolators",helps prevent other piezos from triggering when hitting the drum,AMAZON,2,$36.00,,,Amazon
+Piezo Sensors (Guitar Pickups),"Houses the RP2040, connects to switch PCBs ",Amazon,1,$6.99,,,Amazon
+"M5 Bolts, Nuts, Washers",Joins everything together,Amazon,1,$6.99,,,Amazon
+"Neoprene Rubber Sheet 18x24"" x 1/2''",Sheet to cut drum head,Amazon,1,$34.19,,,Amazon
+"Neoprene Rubber Ring 2"" x 10' x 1/2'",Makes ring for drum head,Amazon,1,$12.00,,,Amazon
+Resistors 1MOHM,Used for the circut,Amazon,1,$4.99,,,"California JOS 100pcs 1M ohm Resistor 1/2w (0.5Watt) ±1% Tolerance Metal Film Fixed Resistor, Multiple Values of Resistance Optional(1M ohm, 1M R, 1M Ω): Amazon.com: Industrial & Scientific"
+Jumper Cables,Used for the circut,Amazon,1,$6.98,,,Amazon
+Arduino Leonardo,Used to control all components and circuts,Amazon,1,$23.80,,,https://www.amazon.com/Arduino-org-A000057-Arduino-Leonardo-Headers/dp/B008A36R2Y?crid=BQRK7TJKAZC2&dib=eyJ2IjoiMSJ9.jKH0utgoJgDCikRIzQVImI_6WJCN4uYOax_mcWEvPcE-guNj6nIkkDiuLPtOwytf3fmNy-N7xwViXPEL7dBmuOGkUY_XnNV_bW6LAGS8cjjq98jo2aEWxX5QNPyAr5hsKB9RD5tlz668ESMqId4B7kWGYXmireoVbMmBSuJcblzCLeQCzcaL_KT-CTvEAQh4Bd_FDSKsTmo-KpuDoXKWnOcz1WAoEhZg9ZppRKAXPjwYJu2YkeHrRDhVL4_S4-jZV7okoKkEOym-ZboIaR-4ybB41iBneJkbF_ffO0dPmv0.bgBm3TbieFCMmOY7A3STCqnl2HyEDEOYlOLCBex3tgo&dib_tag=se&keywords=arduino+leonardo&qid=1781944904&s=electronics&sprefix=arduino+leonardo%2Celectronics%2C155&sr=1-1
+Lever Connectors,Used for the circut,Amazon,1,$4.99,,,"Amazon.com: 20 PCS Lever Wire Electrical Connectors Nuts Assortment Kit with 28-12 AWG, Multiple Stud2/3/5 Conductor Combination Compact,Quick Disconnect Splicing,Electrical Insulated Terminals : Industrial & Scientific"
+Assorted Ferrules,attached to wires to connect them,Amazon,1,$4.99,,,"UL Listed 600pcs Wire Ferrules Terminals Kit AWG 22-10 Crimp Copper Ferrules Terminals Wiring Electrical Connector Nylon Insulated Pin Cord End Terminal for Electric, Industrial,etc.: Amazon.com: Industrial & Scientific"
+Arduino Elegoo Mega2560 R3,,Amazon,1,$22.99,,,Amazon.com: ELEGOO MEGA R3 Board ATmega 2560 + USB Cable Compatible with Arduino IDE Projects RoHS Compliant : Electronics
+Elegoo White Filamente,Used as print mat,,1,$11.89,,,"Amazon.com: ELEGOO PLA Plus Filament 1.75mm White 1KG, PLA+ Tougher and Stronger 3D Printer Filament Pro Dimensional Accuracy +/- 0.02mm, 1kg Spool(2.2lbs) Fits for Most FDM 3D Printers : Industrial & Scientific"
+Assorted 22AWG wire,Used for connections,,1,$15.99,,,"TUOFENG 22 AWG Wire Solid Core Hookup Wire, 6 Different Colored Breadboard Wires 30ft Each, Electronic Wire with PVC for Arduino - Amazon.com"
+Electrical Tape,Sticking Piezos to wood and joining wires,Amazon,1,,,,https://www.amazon.com/dp/B001AXD0EY?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1
+OLED Display SSD1306,Used for menu system,Amazon,1,,,,https://www.amazon.com/dp/B0FSRQG23K?ref=ppx_yo2ov_dt_b_fed_asin_title
+Joystick,Used to control menu,Amazon,1,,,,Amazon.com: 6 Pack Joystick Module Game Console Dual-Axis XY Joystick Module KY-023 Control Stick Sensor Board Compatible with PS2 Arduino Raspberry Pi : Electronics
+Hot Glue Gun,Used to apply hot glue,Owned,1,,,,
+Hot glue stick,Helps keep Piezos on wood,Owned,1,,,,
+Super Glue (Cyanoacrylate),Helps join rubber ring to sheet,Owned,1,,,,
+Soldering Iron,"Assembles the PCBs, can weld case to seal cracks",Owned,1,,,,
+Solder,Use with soldering iron for components,Owned,1,,,,
+Super Glue,Secures parts of the case to each other,Owned,1,,,,
+3d Printer,Used to print case,Owned,1,,,,
+CNC Mill,For Cutting Wood to shape,Outsourced (free),1,,,,
+,,,,,$224.04,$237.48,
