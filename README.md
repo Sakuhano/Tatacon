@@ -13,7 +13,7 @@ I outsourced the CNC machine, and the woodshop generously offered the service at
 
 Next, the CAD files were also based off the openscad files and were adapted for my specific size of wood and materials that I used.
 
-
+![CAD](https://github.com/Sakuhano/Tatacon/blob/main/imgs/cad.png)
 
 
 
