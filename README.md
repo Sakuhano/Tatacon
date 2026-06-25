@@ -48,12 +48,26 @@ To make the menu, I built off a lot of exisiting code, first I built a menu fram
 
 The idea for this project came to me when I saw an arcade game called Taiko No Tatsujin while abroad it uses a drum controller for inputs. I didn't give it much thought then, but when I got home. I really wanted to play it and found out there was an official controller available for purchase. It was called the Hori TaTacon. It cost about $70, so I was expecting a great product. But on first usage, I was dissapointed. It required water bottles to keep it weighted so it didn't move, I had to hit it super hard for it to work and it was just janky. So I checked for alternatives online. I discovered numerous controllers avaiailable, however a decent one started at 200 for a small one and for a decent size one it went upwards of 500 or more. So to enjoythe game best I could I made a controller.
 
+# Assembly
+
+Assembly of this is quite easy once the parts are obtained, using the following items to hold things together
+18x M5 bolts 
+32x M5 thread nuts
+46x washers (should be small and thin but size isnt super important)
+
+Corner brace - note I included my specific one in the bom however, almost any can be used as I find it to be much better to just line up your support leg and measure where a hole using the brace has holes. This allows for much more part flexibility, and you just have to drill out the holes, and this is what I did for my brace.
+
+To assemble, start with placing a washer on 14 of your M5 bolts, then take your bottom plate and place one of those 14 bolts in every single hole except for the 4 ones in the middle. it should look like this
+
+![Step 1](https://github.com/Sakuhano/Tatacon/blob/main/imgs/step%201.png)
 
 
 
+Now, place a nut on each one of the bolts and screw it in fully, after this place each of your rubber dampers on the bolts and screw them in. now it should look something like this, I've added a cross section of how it should look for each bolt
+![Step 2](https://github.com/Sakuhano/Tatacon/blob/main/imgs/step2.png)
 
-
-
+Now place another washer on each, and place on each piece of the top plate, finishing off with adding a nut and tightening each bolt in fully.
+![Step 3](https://github.com/Sakuhano/Tatacon/blob/main/imgs/step3.png)
 
 Acknowledgements
 
