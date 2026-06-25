@@ -20,6 +20,8 @@ Next, the CAD files were also based off the openscad files and were adapted for 
 # Drumsticks
 
 I made my own drumsticks as I have access to a lathe in school but it was made completely from scratch with no template, as such there is no design files for the drum stick. I just eyeballed them on the lathe. However, it is a replica of commonly available Taiko Bachi. Drumsticks are non-negotiable to use this product effectively.
+
+
 ![DRMSTICK](https://github.com/Sakuhano/Tatacon/blob/main/imgs/drumsticks.png)
 
 # Drum Head (Skin)
