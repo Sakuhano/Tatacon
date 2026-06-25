@@ -91,9 +91,9 @@ Now place another washer on each, and place on each piece of the top plate, its 
 ![Step 3](https://github.com/Sakuhano/Tatacon/blob/main/imgs/step3.png)
 
 
+Plug in your connectors attached to the piezo wires and you're good to go!
 
-
-Acknowledgements
+# Acknowledgements
 
 Luicat- provided the base controller code that was adapted
 https://github.com/LuiCat/ArduinoTaikoController/tree/master
