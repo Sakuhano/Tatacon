@@ -22,11 +22,11 @@ Next, the CAD files were also based off the openscad files and were adapted for 
 
 
 
-**Why did I make this?**
+# Why did I make this?
 
 The idea for this project came to me when I saw an arcade game called Taiko No Tatsujin while abroad it uses a drum controller for inputs. I didn't give it much thought then, but when I got home. I really wanted to play it and found out there was an official controller available for purchase. It was called the Hori TaTacon. It cost about $70, so I was expecting a great product. But on first usage, I was dissapointed. It required water bottles to keep it weighted so it didn't move, I had to hit it super hard for it to work and it was just janky. So I checked for alternatives online. I discovered numerous controllers avaiailable, however a decent one started at 200 for a small one and for a decent size one it went upwards of 500 or more. 
 
-The EBOX is the electrical component, and when doing research on making my own, I thought that none of the ones online had much character, so I figured adding a screen and joystick would make it easy quite easy to adjust things like sensitivity, as well as add a controller without adding so many extra buttons. This 
+The EBOX is the electrical component, and when doing research on making my own, I thought that none of the ones online had much character, so I figured adding a screen and joystick would make it easy quite easy to adjust things like sensitivity, as well as add a controller without adding so many extra buttons. This led to the creation of my current product
 
 
 
