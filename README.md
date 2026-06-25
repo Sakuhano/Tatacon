@@ -1,5 +1,5 @@
 **What is it?**
-A Tatacon is a controller tha uses a drum and drumsticks as it's input mechanism, it's most commonly used for the hit Japanese arcade video game: Taiko No Tatsujin.
+A Tatacon is a controller that uses a drum and drumsticks as it's input mechanism, it's most commonly used for the hit Japanese arcade video game: Taiko No Tatsujin.
 
 *insert taiko no tatsjin and tatacon img here
 
