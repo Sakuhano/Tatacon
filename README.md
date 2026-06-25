@@ -1,10 +1,10 @@
-**What is it?**
+# What is a Tatacon?
 A Tatacon is a controller that uses a drum and drumsticks as it's input mechanism, it's most commonly used for the hit Japanese arcade video game: Taiko No Tatsujin.
 
 
 ![Intro Screenshot](https://github.com/Sakuhano/Tatacon/blob/main/imgs/1what%20is%20it%20image.png)
 
-CAD and CNC
+# CAD and CNC
 
 All the CNC machine files were based off openscad files by Moandor, these files are the standard shape used for almost all Tatacons, I made minimal edits for hole size (which turned out to be a mistake later however this was fixable with a drill)
 I outsourced the CNC machine, and the woodshop generously offered the service at no-cost after hearing about my purpose.
@@ -12,6 +12,8 @@ I outsourced the CNC machine, and the woodshop generously offered the service at
 ![CNC](https://github.com/Sakuhano/Tatacon/blob/main/imgs/2cncimage.png)
 
 Next, the CAD files were also based off the openscad files and were adapted for my specific size of wood and materials that I used.
+
+
 
 
 
