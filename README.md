@@ -41,7 +41,7 @@ To make the menu, I built off a lot of exisiting code, first I built a menu fram
 
 
 
-![menus]((https://github.com/Sakuhano/Tatacon/blob/main/imgs/menu.png))
+![menus](https://github.com/Sakuhano/Tatacon/blob/main/imgs/menu.png)
 
 
 # Why did I make this?
