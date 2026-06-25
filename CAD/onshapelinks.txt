@@ -1,6 +1,6 @@
 onshape links
 full assembly
-https://cad.onshape.com/documents/6aee9b1927c01772244cdd26/w/75733cd5aa39f972bbfc07a7/e/a9a9ecc8d757471d8fa40ea8?renderMode=0&uiState=6a36eeeddeeac3007e5b9660
+https://cad.onshape.com/documents/6aa020499e75e96b8eab69cc/w/65e557bf736931ccdf71789f/e/7f443d107fafc4eb4d13e204?renderMode=0&uiState=6a3cb25df16925e9c410b774
 
 bottom plate
 https://cad.onshape.com/documents/5576ca21738566e46db9488e/w/b4ec46c4cae221fd3d29429c/e/b8eab56c353da4d986eb8e67?renderMode=0&uiState=6a36ef40deeac3007e5b9755
@@ -19,3 +19,6 @@ https://cad.onshape.com/documents/17738391c73abc8096c0120d/w/c15a20b6220537c8a73
 
 rubber damper insert
 https://cad.onshape.com/documents/448b3b28842744ff81a8ea0b/w/0eaa3f8bf5ad5d896434f28e/e/ecefa9449a19118261a841f0?renderMode=0&uiState=6a36efc2c7880e2ae1d5c61d 
+
+corner brace
+https://cad.onshape.com/documents/f9e7ee72179795a1bbf91ffd/w/2ac4c80fcbbf8c5b16998179/e/1854f41f0b95239626bb5d1a?renderMode=0&uiState=6a3cb28daeaae844bfb4d87a
