@@ -9,7 +9,7 @@ CAD and CNC
 All the CNC machine files were based off openscad files by Moandor, these files are the standard shape used for almost all Tatacons, I made minimal edits for hole size (which turned out to be a mistake later however this was fixable with a drill)
 I outsourced the CNC machine, and the woodshop generously offered the service at no-cost after hearing about my purpose.
 
-![CNC]([https://github.com/Sakuhano/Tatacon/blob/main/imgs/1what%20is%20it%20image.png](https://github.com/Sakuhano/Tatacon/blob/main/imgs/2cncimage.png))
+![CNC](https://github.com/Sakuhano/Tatacon/blob/main/imgs/1what%20is%20it%20image.png](https://github.com/Sakuhano/Tatacon/blob/main/imgs/2cncimage.png)
 
 Next, the CAD files were also based off the openscad files and were adapted for my specific size of wood and materials that I used.
 
