@@ -7,7 +7,7 @@ A Tatacon is a controller that uses a drum and drumsticks as it's input mechanis
 # CAD and CNC
 
 All the CNC machine files were based off openscad files by Moandor, these files are the standard shape used for almost all Tatacons, I made minimal edits for hole size (which turned out to be a mistake later however this was fixable with a drill)
-I outsourced the CNC machine, and the woodshop generously offered the service at no-cost after hearing about my purpose.
+I outsourced the CNC machine, and the woodshop generously offered the service at no-cost after hearing about my purpose. I then had to remove and sand each individual part from the large rectangle
 
 ![CNC](https://github.com/Sakuhano/Tatacon/blob/main/imgs/2cncimage.png)
 
