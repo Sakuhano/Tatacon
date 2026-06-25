@@ -35,6 +35,14 @@ Many projects like this buy official arcade skins imported from Japan, however t
 
 
 
+# Coding
+
+To make the menu, I built off a lot of exisiting code, first I built a menu framework, basing it off code by upir, his code only had a menu framework and bitmap pixel art, hwoever no features. I took his code and edited it to add my specific menus, run on a joystick for navigation as well as actually have features. The controller code is built off code from Luicat, which I took and allowed it to recieve inputs and changes from the menu. In these edits I allowed for serial communication between the boards so that one can interact with the other as well as actually send inputs to the Nintendo switch, making a succesfull digital controller and settings menu.
+
+
+
+![menus]([https://github.com/Sakuhano/Tatacon/blob/main/imgs/drumhead.png](https://github.com/Sakuhano/Tatacon/blob/main/imgs/menu.png))
+
 
 # Why did I make this?
 
