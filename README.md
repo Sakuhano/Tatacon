@@ -50,6 +50,13 @@ The idea for this project came to me when I saw an arcade game called Taiko No T
 
 # Assembly
 
+Before starting,there are a couple things to do to prepare. First it'll make life a lot easier if you solder extension wires on each piezo, however don't remove the wires that come preattached else you risk ruining the sensor. Then take each of these lengthened piezo sensors and electrical tape or glue them in the following locations to the top plate parts 
+
+
+![piezos](https://github.com/Sakuhano/Tatacon/blob/main/imgs/piezo%20locations.png)
+
+
+
 Assembly of this is quite easy once the parts are obtained, using the following items to hold things together
 18x M5 bolts 
 32x M5 thread nuts
@@ -68,6 +75,9 @@ Now, place a nut on each one of the bolts and screw it in fully, after this plac
 
 Now place another washer on each, and place on each piece of the top plate, finishing off with adding a nut and tightening each bolt in fully.
 ![Step 3](https://github.com/Sakuhano/Tatacon/blob/main/imgs/step3.png)
+
+
+
 
 Acknowledgements
 
