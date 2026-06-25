@@ -22,3 +22,6 @@ https://cad.onshape.com/documents/448b3b28842744ff81a8ea0b/w/0eaa3f8bf5ad5d89643
 
 corner brace
 https://cad.onshape.com/documents/f9e7ee72179795a1bbf91ffd/w/2ac4c80fcbbf8c5b16998179/e/1854f41f0b95239626bb5d1a?renderMode=0&uiState=6a3cb28daeaae844bfb4d87a
+
+drum head
+https://cad.onshape.com/documents/2fa7758bc2087f84153a06a8/w/3eaaae4af81a9f6b6b8e88fe/e/0eb41013a2c1b161fea842c8?renderMode=0&uiState=6a3cc527ed8b537bf763da13
