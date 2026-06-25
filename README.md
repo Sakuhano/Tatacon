@@ -82,6 +82,12 @@ Now, place a nut on each one of the bolts and screw it in fully, after this plac
 
 
 Now place another washer on each, and place on each piece of the top plate, its easiest to thread the piezo wire extensions through the holes in the bottom plate now, then to finish off with adding a nut and tightening each bolt in fully. The image below is unfinished to make it easier to see. however the diagram on the right is complete
+
+
+
+
+
+
 ![Step 3](https://github.com/Sakuhano/Tatacon/blob/main/imgs/step3.png)
 
 
