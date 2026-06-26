@@ -160,7 +160,7 @@ Now place all your components in their respective locations based on the image a
 
 Wire everything according to the schematic below, its not necessary to use breadboards, as you can make your own splitter cables for ground by cutting dupont wires and soldering together. Go slow, and attach components to dupont wires for ease.
 
-![schematic](https://github.com/Sakuhano/Tatacon/blob/main/imgs/Screenshot%202026-06-25%20235739.png)
+![schematic](https://github.com/Sakuhano/Tatacon/blob/main/schematic/schematic.png)
 
 
 After wiring everything together, plug the ferrules into the lever connects, close the lid and you're done!!!!
