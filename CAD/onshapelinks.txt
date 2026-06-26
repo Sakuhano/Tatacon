@@ -1,4 +1,21 @@
 onshape links
+
+3d printed case stuff
+
+
+Full case
+https://cad.onshape.com/documents/dbfdb3f3bc076da2f50f18f9/w/3ca958918727ab9e0ec28118/e/54212bcc2f6360454f75ac55?renderMode=0&uiState=6a3dd6ba25bc5911241cc62d
+
+Joystick insert
+https://cad.onshape.com/documents/fc0ff1775dbdd76d4b20aab2/w/3f028f6ef009c41b3ea4007a/e/76cd7d365b7bf1416ffd710e?renderMode=0&uiState=6a3dd6c2976d494c0151b2eb
+
+Lid
+https://cad.onshape.com/documents/6eaeb32aaf644f3d68cbf503/w/1fe0b5226ccee433d61931fe
+
+
+Drum Stuff 
+
+
 full assembly
 https://cad.onshape.com/documents/6aa020499e75e96b8eab69cc/w/65e557bf736931ccdf71789f/e/7f443d107fafc4eb4d13e204?renderMode=0&uiState=6a3cb25df16925e9c410b774
 
