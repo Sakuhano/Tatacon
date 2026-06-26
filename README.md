@@ -112,6 +112,33 @@ Plug in your connectors attached to the piezo wires and you're good to go!
 # Case/ebox
 Originally, this was going to be a PCB, however after much research I thought making a case on the side to hold all my electronics would be much better. I've always liked how sim racing setups feel like stations rather than just accessories to the pc, I wanted the same vibe with this and with a large case on the side, it feels much more integrated into my gaming setup rather than being an accessory on the side. I'm a big fan of how it looks as well. 
 
+# Code Flashing for Mega2560 R3
+
+First, take the main file and download all files inside. Open in arduino IDE and flash to the arduino mega2560 r3. 
+
+## Luicat 
+
+Next follow the steps below, to use the code. These steps were taken from the code by Luicat, as since my code is built off of his it requires this aswell
+All credit goes to luicat for this, the required files are here https://github.com/LuiCat/ArduinoTaikoController
+
+### Modifications to Arduino IDE
+
+Before starting Arduino IDE, to enable nintendo switch functionality, replace the following files with the ones provided in "setup" folder:
+
+- `<your arduino installation path>/hardware/arduino/avr/libraries/HID/src/HID.h`
+- `<your arduino installation path>/hardware/arduino/avr/libraries/HID/src/HID.cpp`
+
+Then copy the text in board.txt in "setup" folder and append it to the following file:
+
+- `<your arduino installation path>/hardware/arduino/avr/boards.txt`
+
+If you've successfully done all the modifications above, you should be able to see the board called "Nintendo Switch Controller" next time you start Arduino IDE:
+
+![](https://i.loli.net/2019/03/17/5c8e542c92603.png)
+
+Please select this board before uploading the code as this is essential for your Arduino Leonardo to be recognized by Nintendo Switch.
+
+
 # CAD
 
 Using some part models I found online (credits in files) I added parts to my case to show what it would look like when fully done, below is the image, it has sections and text for easy assembly.
