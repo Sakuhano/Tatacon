@@ -114,7 +114,7 @@ Originally, this was going to be a PCB, however after much research I thought ma
 
 # Code Flashing for Mega2560 R3
 
-First, take the main file and download all files inside. Open in arduino IDE and flash to the arduino mega2560 r3. 
+Take the leonardo code file and download all files inside. Open in arduino IDE and flash to the arduino mega2560 r3. 
 
 ## Luicat 
 
@@ -140,7 +140,7 @@ Please select this board before uploading the code as this is essential for your
 
 # Code Flashing for Leonardo
 
-If the steps above have been followed you should be able to upload the code located in the controller code folder and just flash to the arduino.
+If the steps above have been followed you should be able to upload the code located in the leonardo code folder and just flash to the arduino.
 
 
 # CAD
