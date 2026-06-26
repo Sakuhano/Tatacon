@@ -233,7 +233,7 @@ ShikyC - providing some wiring ideas and examples
 https://github.com/ShikyC/Taiko-Drum-Controller-Arduino
 
 
-- Moandor for providing the base OPENSCAD files which I used to make CNCable files, as well as providing advice throughout this
+Moandor for providing the base OPENSCAD files which I used to make CNCable files, as well as providing advice throughout this
 https://github.com/moandor-y/taiko-no-tatsujin-drum
 
 W3 schools for teaching me C++
