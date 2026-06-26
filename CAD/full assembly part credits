@@ -1,13 +1,6 @@
-Grabcad links to all the parts used in the full assembly
+Grabcad links to all the parts used in the full assembly and credits
 
-leonardo
-https://grabcad.com/library/arduino-leonardo-4
-
-mega2560
-https://grabcad.com/library/arduino-mega-2560-rev3-microcontroller-board-1
-
-joystick
-https://www.grabcad.com/library/ky-023-joystick-module-for-arduino-1
-
-oled screen
-https://grabcad.com/library/ssd1306-oled-display-128x64-1
+Arduino Leonardo — https://grabcad.com/library/arduino-leonardo-essentials-1 — Felix Morgner
+Arduino Mega 2560 Rev3 — https://grabcad.com/library/arduino-mega-2560-rev3-microcontroller-board-1 — Sergey Torshin
+KY‑023 Joystick Module — https://www.grabcad.com/library/ky-023-joystick-module-for-arduino-1 — Wonil Kim
+SSD1306 OLED Display (128×64) — https://grabcad.com/library/ssd1306-oled-display-128x64-1 — Toby
