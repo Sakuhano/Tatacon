@@ -138,6 +138,10 @@ If you've successfully done all the modifications above, you should be able to s
 
 Please select this board before uploading the code as this is essential for your Arduino Leonardo to be recognized by Nintendo Switch.
 
+# Code Flashing for Leonardo
+
+If the steps above have been followed you should be able to upload the code located in the controller code folder and just flash to the arduino.
+
 
 # CAD
 
