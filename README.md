@@ -1,11 +1,18 @@
 # What is a Tatacon?
 A Tatacon is a controller that uses a drum and drumsticks as it's input mechanism, it's most commonly used for the hit Japanese arcade video game: Taiko No Tatsujin.
-A tatacon usually consists of 2 main parts, a drum and an ebox. The drum is self explanatory, you hit it to make inputs on piezo sensors attached to it. These signals are then sent to the EBox, which consists of a microcontroller and other components to improve processing speed and reduce misinput. The main feature I added that I've never seen on a comercially available ebox is a screen. The screen has a settings function allowing you to adjust the individual and total sensistivites of each piezo on the controller. It also consists of a controller (completely digital) which you can use to not require an external controller to navigate the Nintendo switch. Both the screen and controller functions are powered by 2 different boards so as not to lose any processing time for the inputs and make the most accurate controller. I consider my current build to be just a prototype of design as I lack a PCB and printed case, along with other polish I would like to add when finishing this project.
+A tatacon usually consists of 2 main parts, a drum and an ebox. The drum is self explanatory, you hit it to make inputs on piezo sensors attached to it. These signals are then sent to the EBox, which consists of a microcontroller and other components to improve processing speed and reduce misinput. The main feature I added that I've never seen on a comercially available ebox is a screen. The screen has a settings function allowing you to adjust the individual and total sensistivites of each piezo on the controller. It also consists of a controller (completely digital) which you can use to not require an external controller to navigate the Nintendo switch. Both the screen and controller functions are powered by 2 different boards so as not to lose any processing time for the inputs and make the most accurate controller. This github is just design, as the printed case is not complete, along with other polish I would like to add when finishing this project.
 
-Below is a video of the prototype in action
 
 
 ![Intro Screenshot](https://github.com/Sakuhano/Tatacon/blob/main/imgs/1what%20is%20it%20image.png)
+
+
+# Drum
+
+Ive split the section for the case and drum for ease of readability
+
+
+
 
 # CAD and CNC
 
@@ -46,9 +53,7 @@ To make the menu, I built off a lot of exisiting code, first I built a menu fram
 ![menus](https://github.com/Sakuhano/Tatacon/blob/main/imgs/menu.png)
 
 
-# Why did I make this?
 
-The idea for this project came to me when I saw an arcade game called Taiko No Tatsujin while abroad it uses a drum controller for inputs. I didn't give it much thought then, but when I got home. I really wanted to play it and found out there was an official controller available for purchase. It was called the Hori TaTacon. It cost about $70, so I was expecting a great product. But on first usage, I was dissapointed. It required water bottles to keep it weighted so it didn't move, I had to hit it super hard for it to work and it was just janky. So I checked for alternatives online. I discovered numerous controllers avaiailable, however a decent one started at 200 for a small one and for a decent size one it went upwards of 500 or more. So to enjoythe game best I could I made a controller.
 
 #  Pre Assembly
 
@@ -59,12 +64,18 @@ Before starting,there are a couple things to do to prepare. First it'll make lif
 
 
 
-#  Assembly
+#  Drum Assembly
 
 Assembly of this is quite easy once the parts are obtained, using the following items to hold things together
 18x M5 bolts 
 32x M5 thread nuts
 46x washers (should be small and thin but size isnt super important)
+soldering iron
+electrical tape
+piezos
+wood pieces
+corner brace
+drill
 
 Corner brace - note I included my specific one in the bom however, almost any can be used as I find it to be much better to just line up your support leg and measure where a hole using the brace has holes. This allows for much more part flexibility, and you just have to drill out the holes, and this is what I did for my brace.
 
@@ -77,6 +88,7 @@ Now is the easiest time to place your support legs, Line up your corner brace(s)
 
 
 Now, place a nut on each one of the bolts and screw it in fully, after this place each of your rubber dampers on the bolts and screw them in. now it should look something like this (support bolts not shown) , I've added a cross section of how it should look for each bolt
+
 ![Step 2](https://github.com/Sakuhano/Tatacon/blob/main/imgs/step2.png)
 
 
@@ -95,6 +107,76 @@ Now place another washer on each, and place on each piece of the top plate, its 
 
 Plug in your connectors attached to the piezo wires and you're good to go!
 
+
+
+# Case/ebox
+Originally, this was going to be a PCB, however after much research I thought making a case on the side to hold all my electronics would be much better. I've alwaays liked how sim racing setups feel like stations rather than just accessories to the pc, I wanted the same vibe with this and with a large case on the side, it feels much more integrated into my gaming setup rather than being an accessory on the side. I'm a big fan of how it looks aswell. 
+
+# CAD
+
+Using some part models I found online (credits in files) I added parts to my case to show what it would look like when fully done, below is the image, it has sections and text for easy assembly.
+
+![Step 2](https://github.com/Sakuhano/Tatacon/blob/main/imgs/full%20assembled.png)
+
+
+
+# Pre Assembly
+
+Required mats
+Superglue
+Neodymium Magnets
+Plastic Screws and washers
+Level connectors
+Arduinos
+Frennuls
+1m ohm resistor
+dupont wires
+db107 bridge rectifiers
+soldering iron (optional)
+
+
+
+First, after printing all the files, you want to take your magnets and glue them on the circle divots on the lid and the 4 lowered pillars in the case. 
+Next, glue the joystick insert block on the case under the hole that cooresponds with the joystick on the print. (check 3d file for reference). Take the Ferruls and place them on the wires coming out of the drum, differently colored in pairs so as to know which wire goes to which piezo.
+
+# Base (optional)
+
+requires
+marker
+drill
+scrap wood
+hammer
+
+To add an extra element of flair you can make a base for your case, which makes it all the more cooler >:) this is totally optional though. To make one, you can use scrap wood and cut it to shape, then place your case over the wood in the spot you would like it to be. Mark the drill points by sticking a marker through the bolt holes for arduino. After drilling, hammer inserts into the holes. 
+
+
+
+# Assembly
+
+Now place all your components in their respective locations based on the image above as well as the labels placed on the board. Place your M3 bolts through the holes to lock all components into place. If you make a base, you can thread the bolts on the bottom through the m3 inserts Lock the components in with the washers. Glue 8 lever connectors in the spot that is labeled lever connector like the image above. Now you are ready to start wiring.
+
+
+# Wiring
+
+Wire everything according to the schematic below, its not necessary to use breadboards, as you can make your own splitter cables for ground by cutting dupont wires and soldering together. Go slow, and attach components to dupont wires for ease.
+
+![schematic](https://github.com/Sakuhano/Tatacon/blob/main/imgs/Screenshot%202026-06-25%20235739.png)
+
+
+After wiring everything together, plug the frennuls into the level connects, close the lid and you're done!!!!
+
+# Drumsticks
+
+To make drumsticks I used a lathe and eyeballed some measurements using scrap wood for what I think the drumstick should be in thickness. However just searching up taiko no tatsujin bachi will help you find ones that work. Drumsticks are basically required for this as it makes much more precise inputs. However, I would more reccomend just buying one if you don't have access or knowledge of using a lathe. They can go for as low as $10-$15 for a medium quality one.
+
+
+
+# Why did I make this?
+
+The idea for this project came to me when I saw an arcade game called Taiko No Tatsujin while abroad it uses a drum controller for inputs. I didn't give it much thought then, but when I got home. I really wanted to play it and found out there was an official controller available for purchase. It was called the Hori TaTacon. It cost about $70, so I was expecting a great product. But on first usage, I was dissapointed. It required water bottles to keep it weighted so it didn't move, I had to hit it super hard for it to work and it was just janky. So I checked for alternatives online. I discovered numerous controllers avaiailable, however a decent one started at 200 for a small one and for a decent size one it went upwards of 500 or more. So to enjoy the game best I could I made a controller. 
+
+As for the case, most tatacons come with a disconnected ebox, but I thought it would look much better with a larger case. It makes it feel more like a gaming station or setup rather than an accessory.
+
 # Acknowledgements
 
 Luicat- provided the base controller code that was adapted
@@ -108,6 +190,8 @@ https://www.youtube.com/watch?v=HVHVkKt-ldc&time_continue=72&source_ve_path=MjM4
 
 
 Friends for helping and teaching me many things
+
+
 
 Hack Club for providing the environment to build this
 
