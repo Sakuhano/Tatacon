@@ -173,9 +173,8 @@ To make drumsticks I used a lathe and eyeballed some measurements using scrap wo
 
 # Why did I make this?
 
-The idea for this project came to me when I saw an arcade game called Taiko No Tatsujin while abroad it uses a drum controller for inputs. I didn't give it much thought then, but when I got home. I really wanted to play it and found out there was an official controller available for purchase. It was called the Hori TaTacon. It cost about $70, so I was expecting a great product. But on first usage, I was dissapointed. It required water bottles to keep it weighted so it didn't move, I had to hit it super hard for it to work and it was just janky. So I checked for alternatives online. I discovered numerous controllers avaiailable, however a decent one started at 200 for a small one and for a decent size one it went upwards of 500 or more. So to enjoy the game best I could I made a controller. 
+The idea for this project came to me when I saw an arcade game called Taiko No Tatsujin while abroad it uses a drum controller for inputs. I didn't give it much thought then, but when I got home. I really wanted to play it and found out there was an official controller available for purchase. It was called the Hori TaTacon. It cost about $70, so I was expecting a great product. But on first usage, I was dissapointed. It required water bottles to keep it weighted so it didn't move, I had to hit it super hard for it to work and it was just janky. So I checked for alternatives online. I discovered numerous controllers avaiailable, however a decent one started at 200 for a small one and for a decent size one it went upwards of 500 or more. So I vowed to make my own. After doing some initial research over a year ago, I realized how much of a monumental task it was and gave up, but the want for one still lingered. And a year later, I found the motivation to start building again for Fallout. After many hours of work, that brings us to today.
 
-As for the case, most tatacons come with a disconnected ebox, but I thought it would look much better with a larger case. It makes it feel more like a gaming station or setup rather than an accessory.
 
 # Acknowledgements
 
@@ -190,6 +189,8 @@ https://www.youtube.com/watch?v=HVHVkKt-ldc&time_continue=72&source_ve_path=MjM4
 
 
 Friends for helping and teaching me many things
+
+My shop teacher for showing me how to use a lathe
 
 
 
