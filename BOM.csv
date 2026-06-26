@@ -2,7 +2,7 @@ Item,Purpose,Source,Amount,Price,Subtotal,Total Spent (tax + shipping,Link
 1/2 in. x 2 ft. x 4 ft. Sande Plywood,Material for the Drum,Home Depot,1,$27.26,,,https://www.homedepot.com/p/ProWood-1-2-in-x-2-ft-x-4-ft-Sande-Plywood-Project-Panel-109068/202093791?MERCH=REC-_-rv_typeahead_rr-_-202093791-_-1-_-n/a-_-n/a-_-n/a-_-n/a-_-n/a
 Corner Brace,Joins stand of drum to drum pieces,Ace Hardware,1,$3.99,,,https://www.acehardware.com/departments/hardware/angles-braces-and-brackets/braces/5021689
 2mm x 6mm neodymium magnets,joins lid of case to case,Aliexpress,1,$4.63,,,https://www.aliexpress.us/item/3256809168494688.html?spm=a2g0o.detail.0.0.781eNZGtNZGtSw&mp=1&pdp_npi=6%40dis%21USD%21USD%204.63%21USD%200.99%21%21USD%200.99%21%21%21%402103212517824403105903636e338f%2112000048850318300%21ct%21US%21-1%21%211%210%21&gatewayAdapt=glo2usa&_randl_shipto=US
-"M5, 12mm vibration isolators",helps prevent other piezos from triggering when hitting the drum, Amazon,2,$36.00,,,https://www.amazon.com/dp/B07Z7GR4HW?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1
+"M5, 12mm vibration isolators",helps prevent other piezos from triggering when hitting the drum,AMAZON,2,$36.00,,,https://www.amazon.com/dp/B07Z7GR4HW?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1
 Piezo Sensors (Guitar Pickups),"Houses the RP2040, connects to switch PCBs ",Amazon,1,$6.99,,,https://www.amazon.com/dp/B0DYNKK6B6?ref=ppx_yo2ov_dt_b_fed_asin_title
 "Assorted Nuts, Bolts, Washers",Joins everything together,Aliexpress,1,$14.97,,,https://www.aliexpress.us/item/3256807011368573.html?spm=a2g0o.detail.0.0.2dc4VvnBVvnBJx&mp=1&pdp_npi=6%40dis%21USD%21USD+14.97%21USD+4.38%21%21USD+4.38%21%21%21%402103212517824406459321722e338f%2112000039772607217%21ct%21US%21-1%21%211%210%21&gatewayAdapt=glo2usa
 "Neoprene Rubber Sheet 18x24"" x 1/2''",Sheet to cut drum head,Amazon,1,$34.19,,,https://www.amazon.com/dp/B01CUQ51L4?ref=ppx_yo2ov_dt_b_fed_asin_title
@@ -34,4 +34,6 @@ Hand Saw,For cutting wood,Owned,1,,,,
 Wood Glue,For bonding wood,Owned,1,,,,
 Scrap Wood,Spare wood for base making,Owned,1,,,,
 Power Drill + bits,For drilling holes,Owned,1,,,,
-,,,,,$256.17,$271.54,
+Marker,For marking points to drill,owned,1,,,,
+Hammer/mallet,For hammering in wooden inserts,Owned,1,,,,
+TOTAL COST USD,,,,,$256.17,$271.54,
