@@ -57,7 +57,7 @@ To make the menu, I built off a lot of exisiting code, first I built a menu fram
 
 #  Pre Assembly
 
-Before starting,there are a couple things to do to prepare. First it'll make life a lot easier if you solder extension wires on each piezo, however don't remove the wires that come preattached else you risk ruining the sensor. Then take each of these lengthened piezo sensors and electrical tape or glue them in the following locations to the top plate parts 
+Before starting,there are a couple things to do to prepare. First it'll make life a lot easier if you solder extension wires on each piezo, however don't remove the wires that come preattached else you risk ruining the sensor. Then take each of these lengthened piezo sensors and electrical tape or glue them in the following locations to the top plate parts. There are phyiscal labels on the 3d model, however they are difficult to see in this image.
 
 ![piezos](https://github.com/Sakuhano/Tatacon/blob/main/imgs/piezo%20locations.png)
 
@@ -126,9 +126,9 @@ Required mats
 Superglue
 Neodymium Magnets
 Plastic Screws and washers
-Level connectors
+Lever connectors
 Arduinos
-Frennuls
+Ferruls
 1m ohm resistor
 dupont wires
 db107 bridge rectifiers
@@ -163,7 +163,7 @@ Wire everything according to the schematic below, its not necessary to use bread
 ![schematic](https://github.com/Sakuhano/Tatacon/blob/main/imgs/Screenshot%202026-06-25%20235739.png)
 
 
-After wiring everything together, plug the frennuls into the level connects, close the lid and you're done!!!!
+After wiring everything together, plug the ferruls into the lever connects, close the lid and you're done!!!!
 
 # Drumsticks
 
