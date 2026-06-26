@@ -116,10 +116,10 @@ Originally, this was going to be a PCB, however after much research I thought ma
 
 Take the leonardo code file and download all files inside. Open in arduino IDE and flash to the arduino mega2560 r3. 
 
-## Luicat 
+## IDE preparation
 
-Next follow the steps below, to use the code. These steps were taken from the code by Luicat, as since my code is built off of his it requires this aswell
-All credit goes to luicat for this, the required files are here https://github.com/LuiCat/ArduinoTaikoController
+Next follow the steps below, to use the code. These steps were taken from Luicats Github, as since my code is built off of his it requires this aswell
+All credit goes to luicat for this, the required files are here: https://github.com/LuiCat/ArduinoTaikoController
 
 ### Modifications to Arduino IDE
 
