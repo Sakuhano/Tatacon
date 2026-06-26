@@ -134,7 +134,7 @@ Then copy the text in board.txt in "setup" folder and append it to the following
 
 If you've successfully done all the modifications above, you should be able to see the board called "Nintendo Switch Controller" next time you start Arduino IDE:
 
-![](https://i.loli.net/2019/03/17/5c8e542c92603.png)
+![](https://github.com/Sakuhano/Tatacon/blob/main/imgs/instruction.png)
 
 Please select this board before uploading the code as this is essential for your Arduino Leonardo to be recognized by Nintendo Switch.
 
